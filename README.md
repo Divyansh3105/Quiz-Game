@@ -101,6 +101,6 @@ Open `index.html` in your browser to play the game locally.
 
 _"In unity, there is strength. In friendship, there is magic."_
 
-</div>
-
 Feel free to use, modify, and share this project!
+
+</div>
